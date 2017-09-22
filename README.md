@@ -1,6 +1,6 @@
 # terraform
-Author: Joan Miquel Luque
-Company: Hotelbeds Technology SLU
+- Author: Joan Miquel Luque
+- Company: Hotelbeds Technology SLU
 
 ## Description
 This example is used to deploy a new AWS VPC from scratch
